@@ -1,11 +1,8 @@
 | Database                  | Research Group / Research Project                                       | Country         | Prefix of ID   | Project Tag                |
 |---------------------------|-------------------------------------------------------------------------|-----------------|----------------|----------------------------|
 | ACES_SU                   | University of Stockholm - Environmental Sciences                        | Sweden          | AS             |                            |
-| AGILENT                   | Agilent Technologies                                                    | USA             | AG             |                            |
 | AAFC                      | Agriculture and Agri-Food Canada                                        | Canada          | AC             |                            |
-| Antwerp_Univ              | University of Antwerp - Toxicology Center                               | Belgium         | AN             | HBM4EU                     |
 | Athens_Univ               | University of Athens - Analytical Chemistry                             | Greece          | AU             |                            |
-| BfG                       | BfG, Federal Institute of Hydrology, Koblenz                            | Germany         | BFG            |                            |
 | BGC_Munich                | BGC, Helmholtz-Zentrum Muenchen                                         | Germany         | RP             |                            |
 | Boise_State_Univ          | Boise State University                                                  | USA             | BSU            |                            |
 | BS                        | Plant Biology, The Noble Foundation                                     |                 | BS             |                            |
@@ -27,7 +24,7 @@
 | Keio_Univ                 | Keio University                                                         | Japan           | KO             |                            |
 | KWR                       | KWR watercycle research institute                                       | The Netherlands | KW             |                            |
 | Kyoto_Univ                | Kyoto University                                                        | Japan           | CA             |                            |
-| LCSB                      | University of Luxembourg - Environmental Cheminformatics                | Luxembourg      | LU, LH, LI, LW |                            |
+| LCSB                      | University of Luxembourg - Environmental Cheminformatics                | Luxembourg      | LU             |                            |
 | Literature_Specs          | Literature Spectra from different sources                               |                 | LIT            |                            |
 | MetaboLights              | Mass spectra from MetaboLights                                          |                 | ML             |                            |
 | Metabolon                 | Metabolon, Inc.                                                         | USA             | MT             |                            |
@@ -51,3 +48,6 @@
 | UPAO                      | Universidad Privada Antenor Orrego                                      | Peru            | UPA            |                            |
 | Washington_State_Univ     | Washington State University                                             | USA             | BML            |                            |
 | Waters                    | Nihon Waters K.K.                                                       | Japan           | WA             |                            |
+| BAFG                      | Federal Institute of Hydrology, Koblenz, Germany - BfG                  | Germany         | BAFG, CSL      |                            |
+| LFUBAY                    | Bavarian Environment Agency, Augsburg, Germany - LfU Bayern             | Germany         | LFUBAY, CSL    |                            |
+| SMB_Measured              | Mass spectra from Shin-MassBank                                         | Japan           | HSA            |                            |
